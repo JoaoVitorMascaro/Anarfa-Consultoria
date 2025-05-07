@@ -6,7 +6,7 @@ Sobre o projeto:
 
 Neste novo projeto utilizei fontes externas, vídeos e algumas novas formatações em CSS, e formulários.
 
-![](prints/ft1.png)
+![oi](prints/ft1.png)
 
 ![](prints/ft2.png)
 
